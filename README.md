@@ -5,7 +5,7 @@
 >- MDO
 >- Machine Learning & Data Mining
 >- Fintech & Quant
->- etc.
+>- and much more, etc.
 - 🌱 I’m currently learning  a lot of things...
 - 💞️ I’m looking to improve myself continuely, and collaborate on making a better world.
 - 📫 How to reach me, leave it empty right now.
